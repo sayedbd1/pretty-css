@@ -1,0 +1,74 @@
+.box {
+	border: 20px solid cyan;
+	margin: 40px 200px;
+	padding: 0 33px;
+	border-radius: 80px;
+	background-color: gainsboro;
+	line-height: 1.5;
+}
+.box h1 {
+	text-align: center;
+	text-transform: uppercase;
+	color: deeppink;
+	font-family: Cursive;
+}
+.box p {
+	text-align: justify;
+	color: mediumblue;
+}
+
+.box2 {
+	border: 20px groove forestgreen;
+	margin: 40px 200px;
+	padding: 0 33px;
+	border-radius: 80px;
+	background-color: gainsboro;
+	line-height: 1.5;
+}
+.box2 h1 {
+	text-align: center;
+	text-transform: uppercase;
+	color: red;
+	font-family: impact;
+}
+.box2 p {
+	text-align: justify;
+	color: mediumblue;
+}
+.form {
+	padding: 30px 40%;
+}
+.form input {
+	padding: 16px 33px;
+	border: 1px solid fuchsia;
+	text-align: center;
+	border-radius: 80px;
+	background: lightcyan;
+}
+.form button {
+	margin-top: 18px;
+	padding: 10px 26px;
+	text-align: center;
+	margin-left: 51px;
+	text-transform: uppercase;
+}
+.box3 {
+	border: 20px dashed red;
+	margin: 40px 200px;
+	padding: 0 33px;
+	border-radius: 80px;
+	background-color: gainsboro;
+	line-height: 1.5;
+}
+.hero-img img {
+	display: inline-block;
+	height: 263px;
+	padding: 10px 8px;
+	width: 256px;
+	border-radius: 45px;
+}
+.box3 h1 {
+	text-transform: uppercase;
+	text-align: center;
+	color: magenta;
+}
